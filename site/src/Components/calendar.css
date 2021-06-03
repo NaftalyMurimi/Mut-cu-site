@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+    background-color: cadetblue;
+   
+}
+.fully{
+width: 100%;
+height: 100%;
+background-color: #005f86;
+
+}
+.iframec{
+    width: 80%;
+    height: 600px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border:solid black;
+    margin-left: 10%;
+    margin-right: auto;
+    font-size: 30px;
+    scroll-behavior: none;
+    
+    background-color: bisque;
+}
+
+
+
+
+

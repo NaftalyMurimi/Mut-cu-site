@@ -1,0 +1,36 @@
+
+.people{
+    bottom: 10px;
+    width: 100%;
+    color: #000;
+    
+   
+ 
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+    background-color: rgb(68, 68, 110);
+}
+.imgtag{
+    width: 350px;
+    height: 300px;
+}
+h3{
+    padding: 10px;
+    margin-bottom: 0px;
+}
+
+.head{
+    background-color: rgb(240, 216, 240);
+	height: 400px;
+	width: 350px;
+	margin-top: 20px;
+	margin-left:10px;
+	margin-right: 10px;
+	float: left;
+    display: flex;
+    flex-direction: column;
+	
+    border-radius: 10px;
+}

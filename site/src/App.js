@@ -1,14 +1,21 @@
 import React from 'react'
-import Footer from './Components/Footer'
+import Events from './Components/Events';
 
-import Location from './Components/Location'
+
+
+
+import Fullcalendar from './Components/Calendar';
+import Calendar from './Components/Calendar';
+import Location from './Components/Location';
 
 function App (){
   return(
     <div>
       <h1>Do not alter this page, import your components here. have styles in the styles folder.</h1>
-      <Location/>
-      <Footer/>
+      
+     <Calendar/>
+     <Location/>
+      
       
       
     </div>
