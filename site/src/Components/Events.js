@@ -5,7 +5,7 @@ function Events() {
     const People = [
         {id: 1,  name: "Murang'a Bible Broadcasting Coporation. Our Weekly meetings on Thursday"  ,image: "/images/mbbc.jpg" },
         {id: 2, name: "Years Fellowships held every Tuesday at the the tuition block  " ,image: "/images/years.jpg" },
-        {id: 3, name:" The handing over on the 2020 AGM" ,image: "/images/ANDOVER.JPG" },
+        {id: 3, name:" MUTCU Bible study... Every monday" ,image: "/images/bible.PNG" },
         {id: 4, name: "Praise and Worship practice sessions at the F 2.2" ,image: "/images/pw.jpg" },
         {id: 5, name: "Sunday service at the Ecop",image: "/images/sunday.JPG" },
         {id: 6, name: "MUTCU Associates present in the 2020 AGM (Associates Sunday)" , image: "/images/allumin.JPG" }
